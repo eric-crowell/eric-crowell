@@ -1,4 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img
+    width="1012"
+    src="banner.webp"
+    alt="eric-crowell"
+  />
+</p>
+
+# Software Engineer
 
 <!--
 **eric-crowell/eric-crowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
