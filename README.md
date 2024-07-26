@@ -1,3 +1,4 @@
+<!--
 <p align="center">
   <img
     width="1012"
@@ -5,6 +6,7 @@
     alt="eric-crowell"
   />
 </p>
+-->
 
 # Software Engineer
 
